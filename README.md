@@ -27,3 +27,4 @@ docker build . \
     --build-arg app_secret="SECRET_OVERRIDE" \
     -t vault-action-exampleapp
 ```
+# vault-action-exampleapp

@@ -1,6 +1,7 @@
 # Ruby exampleapp
+This repository shows an example workflow of integrating Github Actions with Vault into a CI/CD pipeline. The goal is to explain the setup and integration.
 
-This content supports the hands on lab for the [Vault GitHub
+This content also supports the hands on lab for the [Vault GitHub
 Actions](https://developer.hashicorp.com/vault/tutorials/app-integration/github-actions) tutorial.
 
 ## Docker image
